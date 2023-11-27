@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button {
+    margin: 5px;
+}
+
+#footer {
+    position: fixed;
+    bottom: 0;
+    text-align: left;
+}
